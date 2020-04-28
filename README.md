@@ -13,4 +13,4 @@ http://.../ladybug#2 --> 2 days
 
 This way the GM can customize how much time remains on the countdown depending on when the PCs first visit the website.
 
-This project is a fork of the project adapted to the spanish language
+This is a fork of the original website project adapted to the spanish language
